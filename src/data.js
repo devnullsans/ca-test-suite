@@ -7,7 +7,7 @@ export default [
     a: "PQR Limited, an unlisted company, whose paid-up share capital is 150 crore rupees as per the last date of latest audited financial statements is mandatorily required to appoint a woman director.",
     b: "ABC Limited, a listed company, whose turnover is 150 crore rupees as per the last date of latest audited financial statements is mandatorily required to appoint a woman director.",
     c: "XYZ Limited, an unlisted company, whose turnover is 350 crore rupees as per the last date of latest audited financial statements is mandatorily required to appoint a woman director.",
-    d: "All of the above",
+    d: "All of the above"
   },
   {
     question:
@@ -17,7 +17,7 @@ export default [
     a: "All the eight subscribers to the Memorandum of Association of KAL shall be deemed to be the first Directors.",
     b: "Except Parivaar Agro Private Limited, all other subscribers to the Memorandum of Association of KAL shall be deemed to be the first Directors.",
     c: "The shareholders shall appoint the first Directors in the General Meeting of KAL.",
-    d: "Out of the eight subscribers to the Memorandum of Association, the first Directors being three individuals shall be nominated by Sriniwas, the Chartered accountant who has signed the Memorandum as witness and they shall be deemed to be the first Directors of KAL.",
+    d: "Out of the eight subscribers to the Memorandum of Association, the first Directors being three individuals shall be nominated by Sriniwas, the Chartered accountant who has signed the Memorandum as witness and they shall be deemed to be the first Directors of KAL."
   },
   {
     question:
@@ -27,7 +27,7 @@ export default [
     a: "July 14, 2021.",
     b: "August 14, 2021.",
     c: "September 14, 2021.",
-    d: "October 10, 2021.",
+    d: "October 10, 2021."
   },
   {
     question:
@@ -37,7 +37,7 @@ export default [
     a: "Notice served by 750 small shareholders is valid and therefore, Amar Furniture and Fixtures Limited shall appoint Vishal as a small shareholders’ Director.",
     b: "Notice served by 750 small shareholders is not valid and therefore, Amar Furniture and Fixtures Limited shall appoint Vishal as a small shareholders’ Director only on the requisition of 1000 small shareholders.",
     c: "Notice served by 750 small shareholders is not valid and therefore, Amar Furniture and Fixtures Limited shall appoint Vishal as a small shareholders’ Director only on the requisition of 5000 small shareholders.",
-    d: "Notice served by 750 small shareholders is not valid and therefore, Amar Furniture and Fixtures Limited shall appoint Vishal as a small shareholders’ Director only on the requisition of 7500 small shareholders.",
+    d: "Notice served by 750 small shareholders is not valid and therefore, Amar Furniture and Fixtures Limited shall appoint Vishal as a small shareholders’ Director only on the requisition of 7500 small shareholders."
   },
   {
     question:
@@ -47,7 +47,7 @@ export default [
     a: "Claim made by Mr. Q to appoint Mr. Y as alternate Director is valid as the Articles of Association of PQR Limited provide for such appointment.",
     b: "Claim made by Mr. Q to appoint Mr. Y as alternate Director is not valid as the authority to appoint alternate Director has been vested in the Board of Directors only and that too subject to empowerment by the Articles of Association.",
     c: "Mr. Y cannot be appointed as an alternate Director in place of Mr. Q since Mr. Q is proceeding on a foreign tour covering entire Europe for four months only which is less than the required absence of minimum six months.",
-    d: "Mr. Y cannot be appointed as an alternate Director in place of Mr. Q since Mr. Q is proceeding on a foreign tour covering entire Europe for four months only which is less than the required absence of minimum nine months.",
+    d: "Mr. Y cannot be appointed as an alternate Director in place of Mr. Q since Mr. Q is proceeding on a foreign tour covering entire Europe for four months only which is less than the required absence of minimum nine months."
   },
   {
     question:
@@ -57,7 +57,7 @@ export default [
     a: "12 th June, 2021.",
     b: "15 th June, 2021.",
     c: "17 th June, 2021.",
-    d: "18 th June, 2021.",
+    d: "18 th June, 2021."
   },
   {
     question:
@@ -67,8 +67,38 @@ export default [
     a: "HCQ Pharma Ltd. can appoint Mr. Sanjay as an Independent Director irrespective of the fact that he is Legal Advisor to Genesis Laboratory Ltd. which is its Associate Company.",
     b: "HCQ Pharma Ltd. cannot appoint Mr. Sanjay as an Independent Director as he is Managing Partner of the firm which is legal advisor to Genesis Laboratory Ltd., its Associate Company, irrespective of the amount of fees charged by Mr. Sanjay from its Associate Company.",
     c: "HCQ Pharma Ltd. cannot appoint Mr. Sanjay as an Independent Director as he is Managing Partner of the firm which is Legal Advisor to Genesis Laboratory Ltd., its Associate Company, and the fees charged by Mr. Sanjay exceeds the percentage as specified in the Companies Act, 2013, during one year out of the three immediately preceding financial years.",
-    d: "HCQ Pharma Ltd. can appoint Mr. Sanjay as an Independent Director even though he is the Managing Partner of the firm which is Legal Advisor to Genesis Laboratory Ltd., its Associate Company, as Mr. Sanjay did not charge any fee during the immediately preceding financial year.",
+    d: "HCQ Pharma Ltd. can appoint Mr. Sanjay as an Independent Director even though he is the Managing Partner of the firm which is Legal Advisor to Genesis Laboratory Ltd., its Associate Company, as Mr. Sanjay did not charge any fee during the immediately preceding financial year."
   },
+  {
+    question:
+      "The Board of Directors of MNO Pharma Limited is willing to appoint Mr. R, a qualified Cost Accountant having fifteen years of rich industrial experience, as Additional Director but the Articles of Association are silent about such appointment. Mr. M, the Managing Director of MNO Pharma Limited, is of the view that the Board does not have the power to appoint an Additional Director and therefore, if any such appointment is made, it shall be invalid. From the following four options, choose the one which is applicable in the given situation:",
+    answer: "c",
+    table: "",
+    a: "An ordinary resolution in general meeting needs to be passed by MNO Pharma Limited for appointment of Mr. R as Additional Director.",
+    b: "A special resolution in general meeting needs to be passed by MNO Pharma Limited for appointment of Mr. R as Additional Director.",
+    c: "An enabling provision in the Articles of Association is needed which confers requisite power on the Board of Directors of MNO Pharma Limited for appointment of Additional Director.",
+    d: "The Board of Directors of MNO Pharma Limited has the power to appoint Mr. R as an Additional Director irrespective of whether any clause finds place in the Articles of Association for such appointment or not."
+  },
+  {
+    question:
+      "Mr. Z is proposed to be appointed as the Director in RLP Mechanics Limited. It is noteworthy that Mr. Z already holds directorship in one dormant company, two Section 8 companies, eight public limited companies and nine private limited companies. However, out of nine private limited companies, two are subsidiaries of public limited companies. In the given circumstances, is it possible for Mr. Z to accept another directorship in RLP Mechanics Limited without attracting any invalidity:",
+    answer: "b",
+    table: "",
+    a: "It is not possible for Mr. Z to accept another directorship in RLP Mechanics Limited since he is already holding directorships in twenty companies.",
+    b: "It is not possible for Mr. Z to accept another directorship in RLP Mechanics Limited since he is already holding directorships in eight public limited companies and two such private limited companies which are subsidiaries of public limited companies.",
+    c: "It is possible for Mr. Z to accept another directorship in RLP Mechanics Limited since Section 8 companies and dormant companies are excluded while calculating the limit of twenty companies.",
+    d: "It is possible for Mr. Z to accept another directorship in RLP Mechanics Limited since there is no limit on holding any number of directorships."
+  },
+  {
+    question:
+      "National Software Limited, a government company with fourteen Directors, is desirous of appointing two more Directors to enable good governance and to manage its affairs more efficiently and effectively. However, Mr. X, the Managing Director of National Software Limited, is of the view that the company can validly appoint only one more director and therefore, appointment of two more Directors would be a violation of the statutory provisions. Out of the following four options, choose the one which is applicable in the given situation:",
+    answer: "d",
+    table: "",
+    a: "The contention of Mr. X, the Managing Director of National Software Limited, that the appointment of appointment of two more Directors in the company, thus raising the number of directors to more than fifteen, is valid since such action shall violate the statutory provisions.",
+    b: "Appointment of more than fifteen Directors can be validly made by National Software Limited by passing an ordinary resolution in the general meeting.",
+    c: "Appointment of more than fifteen Directors can be validly made by National Software Limited by passing a special resolution in the general meeting.",
+    d: "In view of the fact that government companies are exempt from the provision which limits the maximum number of Directors in a company, National Software Limited can appoint two more directors, thus raising the total number of directors to sixteen from the present fourteen."
+  }
   // {
   //   question: "",
   //   answer: "",
