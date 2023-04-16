@@ -1,4 +1,4 @@
-export default [
+const data = [
   {
     question:
       "In compliance with the Companies Act, 2013, at least one woman director shall be on the Board of the prescribed class or classes of companies. Ms. Riya is keen to seek the office of woman director in a company. Which of the following companies is mandatorily required to appoint a woman director where Ms. Riya can hold such office:",
@@ -109,3 +109,5 @@ export default [
   //   d: "",
   // },
 ];
+
+export default data;
